@@ -2,6 +2,15 @@ const db = require("../models");
 
 module.exports = function(app) {
 
+    // comment in to prepopulate the database
+    // db.Workout.find({}).then(function (res) {
+    //     console.log("Checking if db is populated");
+    //     if (res.length === 0) {
+    //         console.log("Database is empty!");
+    //         require("./seeders/seed.js");
+    //     }
+    // });
+
     app.get("/api/workouts", (req, res) => {
 
         db.Workout.find({}).then(dbWorkout => {
