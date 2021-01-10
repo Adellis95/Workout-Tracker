@@ -1,6 +1,6 @@
 # Workout-Tracker
 
-[![GitHub](https://img.shields.io/badge/Made%20by-%40Adellis95-orange)](https://github.com/Adellis95/Workout-Tracker)
+[![Herkou link](https://img.shields.io/badge/Heroku%20link-%40Adellis95-orange)](https://infinite-thicket-96147.herokuapp.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
