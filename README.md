@@ -5,7 +5,7 @@
 
 ## Description
 
-Words
+Track your workouts with Fitness Tracker. The app will keep track of every exercise in your workout. The app dashboard will display weekly summary graphs of all workouts done in a week. A consumer will reach their fitness goals more quickly when they track their workout progress using this application.
 
 ## Table of Contents
 
@@ -13,7 +13,6 @@ Words
 - [Acceptance-Criteria](#acceptance-criteria)
 - [User-Story](#user-story)
 - [Demos](#demos)
-- [Usage](#usage)
 - [Installation](#installation)
 - [License](#license)
 
@@ -37,11 +36,8 @@ The user should be able to:
 
 ## Demos
 
-words
-
-## Usage
-
-Words
+![Demo](Demo1.gif)
+![Demo](Demo2.gif)
 
 ## Installation
 
