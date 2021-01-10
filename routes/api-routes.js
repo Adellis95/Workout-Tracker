@@ -33,9 +33,9 @@ module.exports = function(app) {
         console.log("Workout to be added!!");
         console.log(body);
 
-        db.Workout.create(body).then((dbWorkout => {
+        db.Workout.create(body).then(dbWorkout => {
             res.json(dbWorkout);
-        })).catch(err => {
+        }).catch(err => {
             res.json(err);
         });
     });
